@@ -1,4 +1,4 @@
-# 🚀 Nombre de tu Curso / Proyecto Web
+# 🚀 panelActividades / Proyecto Web
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-orange?style=for-the-badge&logo=git" alt="Estado">
